@@ -1,0 +1,10 @@
+.red {
+    color: red;
+}
+div {
+    border: 1px dashed blue;
+    padding:1em;
+}
+.xmlDoc {
+    border: 1px dashed green;
+}
